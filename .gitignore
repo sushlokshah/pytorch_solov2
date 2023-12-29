@@ -2,3 +2,5 @@ build/*
 focalloss.egg-info/*
 */__pycache__*
 reseg_results.pkl*
+# pretrained/
+sushlok_results/
